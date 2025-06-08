@@ -67,7 +67,7 @@ const Footer: React.FC = () => {
               <p className="text-gray-600 dark:text-gray-300 mb-2">{personalInfo.location}</p>
               <p className="text-gray-600 dark:text-gray-300 mb-2">
                 <a 
-                  href={`mailto:john.doe@example.com`}
+                  href={`mailto:dattatreya.nammina1@gmail.com`}
                   className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
                 >
                   dattatreya.nammina1@gmail.com

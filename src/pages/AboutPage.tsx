@@ -6,7 +6,7 @@ import { Calendar, Briefcase, GraduationCap, MapPin } from 'lucide-react';
 
 const AboutPage: React.FC = () => {
   useEffect(() => {
-    document.title = 'About | John Doe Portfolio';
+    document.title = 'About | Dattatreya"s Portfolio';
     window.scrollTo(0, 0);
   }, []);
 

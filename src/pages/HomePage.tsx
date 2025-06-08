@@ -7,7 +7,7 @@ import ContactCTA from '../components/home/ContactCTA';
 
 const HomePage: React.FC = () => {
   useEffect(() => {
-    document.title = 'John Doe | Frontend Developer';
+    document.title = 'Dattatreya | Frontend Developer';
     window.scrollTo(0, 0);
   }, []);
 

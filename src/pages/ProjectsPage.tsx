@@ -10,7 +10,7 @@ const ProjectsPage: React.FC = () => {
   const [filteredProjects, setFilteredProjects] = useState(projects);
   
   useEffect(() => {
-    document.title = 'Projects | John Doe Portfolio';
+    document.title = 'Projects | Dattatreya Portfolio';
     window.scrollTo(0, 0);
   }, []);
   

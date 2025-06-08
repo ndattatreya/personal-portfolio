@@ -19,7 +19,7 @@ const ProjectDetailPage: React.FC = () => {
       return;
     }
     
-    document.title = `${project.title} | John Doe Portfolio`;
+    document.title = `${project.title} | Dattatreya Portfolio`;
   }, [id, project, navigate]);
   
   if (!project) return null;

@@ -8,7 +8,7 @@ const SkillsPage: React.FC = () => {
   const [activeCategory, setActiveCategory] = useState<string>('all');
   
   useEffect(() => {
-    document.title = 'Skills | John Doe Portfolio';
+    document.title = 'Skills | Dattatreya Portfolio';
     window.scrollTo(0, 0);
   }, []);
   

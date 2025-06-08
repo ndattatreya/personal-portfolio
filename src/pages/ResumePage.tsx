@@ -7,7 +7,7 @@ import { FileDown, Briefcase, GraduationCap, Award } from 'lucide-react';
 
 const ResumePage: React.FC = () => {
   useEffect(() => {
-    document.title = 'Resume | John Doe Portfolio';
+    document.title = 'Resume | Dattatreya Portfolio';
     window.scrollTo(0, 0);
   }, []);
 
